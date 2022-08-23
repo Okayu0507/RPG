@@ -1,4 +1,4 @@
-
+//完成
 public class Brave extends Human {
 	public Brave(String name) {
 		this.name = name;
